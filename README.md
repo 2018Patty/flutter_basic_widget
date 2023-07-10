@@ -1,4 +1,4 @@
-# myfirstapp
+# ฺBasic Widget
 
 <img src="assets/images/myfirstapp.png" style="width: 300px; height:550px">
 
