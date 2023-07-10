@@ -1,7 +1,5 @@
 # myfirstapp
 
-# layoutdesignworkshop
-
 <img src="assets/images/myfirstapp.png" style="width: 300px; height:550px">
 
 A new Flutter project.
